@@ -1,1 +1,1 @@
-# gsg-avatars-preview
+# gsg-gravatar-preview
