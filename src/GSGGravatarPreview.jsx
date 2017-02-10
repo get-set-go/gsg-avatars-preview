@@ -9,3 +9,7 @@ export default class GSGGravatarPreview extends React.Component {
     );
   }
 };
+
+GSGGravatarPreview.defaultProps = {
+  bSize: 80
+};
